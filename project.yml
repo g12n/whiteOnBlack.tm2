@@ -1,0 +1,29 @@
+_prefs: 
+  mapid: g12n.f8a5804d
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -73.848
+  - 40.803
+  - 12
+description: 'Simple Style to create White on Black Street maps. This syle is made for grafik purposes. '
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 22
+minzoom: 0
+name: White on Black
+source: "mapbox:///mapbox.mapbox-streets-v5"
+styles: 
+  - style.mss
+  - labels.mss
+  - streets.mss
+template: ''
